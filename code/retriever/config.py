@@ -3,9 +3,9 @@ class parameters():
     prog_name = "retriever"
 
     # set up your own path here
-    root_path = "your_project_path"
-    output_path = "path_to_store_outputs"
-    cache_dir = "path_for_other_cache"
+    root_path = "/data1/home/casthood/codes/FinQA/"
+    output_path = "/data1/home/casthood/codes/FinQA/outputs/"
+    cache_dir = "/data1/home/casthood/codes/FinQA/cache/"
 
     # the name of your result folder.
     model_save_name = "retriever-bert-base-test"

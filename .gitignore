@@ -1,0 +1,12 @@
+.vscode/
+
+outputs/
+cache/
+
+__pycache__
+
+*.pt
+*.bin
+dataset/
+
+*.log
